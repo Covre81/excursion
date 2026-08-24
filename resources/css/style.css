@@ -1,0 +1,24 @@
+/* Escopo Global */
+body {
+    background-color: black;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+/* Tipografia e Links */
+h1, h2 {
+    font-weight: normal;
+}
+
+a {
+    color: aquamarine;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+/* Tratamento de mídia */
+video {
+    display: block;
+    margin: 0 auto;
+}
